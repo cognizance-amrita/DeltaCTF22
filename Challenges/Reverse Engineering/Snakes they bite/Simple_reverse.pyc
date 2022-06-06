@@ -1,0 +1,176 @@
+ 19           0 LOAD_GLOBAL              0 (chr)
+              2 LOAD_CONST               1 (100)
+              4 CALL_FUNCTION            1
+              6 STORE_FAST               0 (x)
+
+ 20           8 LOAD_GLOBAL              0 (chr)
+             10 LOAD_CONST               2 (101)
+             12 CALL_FUNCTION            1
+             14 STORE_FAST               0 (x)
+
+ 21          16 LOAD_GLOBAL              0 (chr)
+             18 LOAD_CONST               3 (108)
+             20 CALL_FUNCTION            1
+             22 STORE_FAST               0 (x)
+
+ 22          24 LOAD_GLOBAL              0 (chr)
+             26 LOAD_CONST               4 (116)
+             28 CALL_FUNCTION            1
+             30 STORE_FAST               0 (x)
+
+ 23          32 LOAD_GLOBAL              0 (chr)
+             34 LOAD_CONST               5 (97)
+             36 CALL_FUNCTION            1
+             38 STORE_FAST               0 (x)
+
+ 24          40 LOAD_GLOBAL              0 (chr)
+             42 LOAD_CONST               6 (67)
+             44 CALL_FUNCTION            1
+             46 STORE_FAST               0 (x)
+
+ 25          48 LOAD_GLOBAL              0 (chr)
+             50 LOAD_CONST               7 (84)
+             52 CALL_FUNCTION            1
+             54 STORE_FAST               0 (x)
+
+ 26          56 LOAD_GLOBAL              0 (chr)
+             58 LOAD_CONST               8 (70)
+             60 CALL_FUNCTION            1
+             62 STORE_FAST               0 (x)
+
+ 27          64 LOAD_GLOBAL              0 (chr)
+             66 LOAD_CONST               9 (123)
+             68 CALL_FUNCTION            1
+             70 STORE_FAST               0 (x)
+
+ 28          72 LOAD_GLOBAL              0 (chr)
+             74 LOAD_CONST              10 (83)
+             76 CALL_FUNCTION            1
+             78 STORE_FAST               0 (x)
+
+ 29          80 LOAD_GLOBAL              0 (chr)
+             82 LOAD_CONST              11 (110)
+             84 CALL_FUNCTION            1
+             86 STORE_FAST               0 (x)
+
+ 30          88 LOAD_GLOBAL              0 (chr)
+             90 LOAD_CONST              12 (52)
+             92 CALL_FUNCTION            1
+             94 STORE_FAST               0 (x)
+
+ 31          96 LOAD_GLOBAL              0 (chr)
+             98 LOAD_CONST              13 (107)
+            100 CALL_FUNCTION            1
+            102 STORE_FAST               0 (x)
+
+ 32         104 LOAD_GLOBAL              0 (chr)
+            106 LOAD_CONST              14 (51)
+            108 CALL_FUNCTION            1
+            110 STORE_FAST               0 (x)
+
+ 33         112 LOAD_GLOBAL              0 (chr)
+            114 LOAD_CONST              15 (95)
+            116 CALL_FUNCTION            1
+            118 STORE_FAST               0 (x)
+
+ 34         120 LOAD_GLOBAL              0 (chr)
+            122 LOAD_CONST              16 (98)
+            124 CALL_FUNCTION            1
+            126 STORE_FAST               0 (x)
+
+ 35         128 LOAD_GLOBAL              0 (chr)
+            130 LOAD_CONST              17 (121)
+            132 CALL_FUNCTION            1
+            134 STORE_FAST               0 (x)
+
+ 36         136 LOAD_GLOBAL              0 (chr)
+            138 LOAD_CONST               4 (116)
+            140 CALL_FUNCTION            1
+            142 STORE_FAST               0 (x)
+
+ 37         144 LOAD_GLOBAL              0 (chr)
+            146 LOAD_CONST              14 (51)
+            148 CALL_FUNCTION            1
+            150 STORE_FAST               0 (x)
+
+ 38         152 LOAD_GLOBAL              0 (chr)
+            154 LOAD_CONST              15 (95)
+            156 CALL_FUNCTION            1
+            158 STORE_FAST               0 (x)
+
+ 39         160 LOAD_GLOBAL              0 (chr)
+            162 LOAD_CONST              18 (99)
+            164 CALL_FUNCTION            1
+            166 STORE_FAST               0 (x)
+
+ 40         168 LOAD_GLOBAL              0 (chr)
+            170 LOAD_CONST              19 (48)
+            172 CALL_FUNCTION            1
+            174 STORE_FAST               0 (x)
+
+ 41         176 LOAD_GLOBAL              0 (chr)
+            178 LOAD_CONST               1 (100)
+            180 CALL_FUNCTION            1
+            182 STORE_FAST               0 (x)
+
+ 42         184 LOAD_GLOBAL              0 (chr)
+            186 LOAD_CONST              14 (51)
+            188 CALL_FUNCTION            1
+            190 STORE_FAST               0 (x)
+
+ 43         192 LOAD_GLOBAL              0 (chr)
+            194 LOAD_CONST              15 (95)
+            196 CALL_FUNCTION            1
+            198 STORE_FAST               0 (x)
+
+ 44         200 LOAD_GLOBAL              0 (chr)
+            202 LOAD_CONST              20 (114)
+            204 CALL_FUNCTION            1
+            206 STORE_FAST               0 (x)
+
+ 45         208 LOAD_GLOBAL              0 (chr)
+            210 LOAD_CONST              14 (51)
+            212 CALL_FUNCTION            1
+            214 STORE_FAST               0 (x)
+
+ 46         216 LOAD_GLOBAL              0 (chr)
+            218 LOAD_CONST              21 (118)
+            220 CALL_FUNCTION            1
+            222 STORE_FAST               0 (x)
+
+ 47         224 LOAD_GLOBAL              0 (chr)
+            226 LOAD_CONST              14 (51)
+            228 CALL_FUNCTION            1
+            230 STORE_FAST               0 (x)
+
+ 48         232 LOAD_GLOBAL              0 (chr)
+            234 LOAD_CONST              20 (114)
+            236 CALL_FUNCTION            1
+            238 STORE_FAST               0 (x)
+
+ 49         240 LOAD_GLOBAL              0 (chr)
+            242 LOAD_CONST              22 (115)
+            244 CALL_FUNCTION            1
+            246 STORE_FAST               0 (x)
+
+ 50         248 LOAD_GLOBAL              0 (chr)
+            250 LOAD_CONST              23 (33)
+            252 CALL_FUNCTION            1
+            254 STORE_FAST               0 (x)
+
+ 51         256 LOAD_GLOBAL              0 (chr)
+            258 LOAD_CONST              11 (110)
+            260 CALL_FUNCTION            1
+            262 STORE_FAST               0 (x)
+
+ 52         264 LOAD_GLOBAL              0 (chr)
+            266 LOAD_CONST              24 (103)
+            268 CALL_FUNCTION            1
+            270 STORE_FAST               0 (x)
+
+ 53         272 LOAD_GLOBAL              0 (chr)
+            274 LOAD_CONST              25 (125)
+            276 CALL_FUNCTION            1
+            278 STORE_FAST               0 (x)
+            280 LOAD_CONST               0 (None)
+            282 RETURN_VALUE
